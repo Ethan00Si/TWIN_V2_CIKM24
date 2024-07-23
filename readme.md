@@ -5,7 +5,7 @@ This is the official repository of the CIKM 2024 paper "TWIN V2: Scaling Ultra-L
 You can find the appendix in `twin_v2_appendix.pdf`.
 
 
-### Citation
+## Citation
 Please cite our paper if you find our research interesting or useful.
 
 ```
@@ -24,5 +24,5 @@ series = {CIKM '24}
 ```
 
 
-### Contact
+## Contact
 If you have any questions, feel free to contact us through GitHub issues. Thanks!
